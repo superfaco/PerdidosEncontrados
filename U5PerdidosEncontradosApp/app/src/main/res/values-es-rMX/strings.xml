@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Perdidos y Encontrados</string>
+    <string name="usr">Usuario:</string>
+    <string name="pass">Contraseña:</string>
+    <string name="phone">Teléfono:</string>
+    <string name="login">Acceder</string>
+    <string name="signup">Registrarse</string>
+    <string name="signup_ad">¿No tiene cuenta?</string>
+    <string name="my_posts">Mis publicaciones</string>
+    <string name="add_post">Agregar publicación</string>
+    <string name="exit">Salir</string>
+    <string name="between_date">Entre fecha...</string>
+    <string name="and_date">Y fecha...</string>
+    <string name="between_time">Entre hora...</string>
+    <string name="and_time">Y hora...</string>
+    <string name="description">Descripción:</string>
+    <string name="place">Lugar:</string>
+    <string name="search">Buscar</string>
+    <string name="date">Fecha:</string>
+    <string name="time">Tiempo:</string>
+    <string name="add_photo">Añadir fotografía</string>
+    <string name="publish">Publicar</string>
+    <string name="about_head">
+        TECNOLOGICO NACIONAL DE MEXICO\n
+        Instituto Tecnológico de la Laguna\n
+        Ingenieria en Sistemas Computacionales\n\n
+
+        PROGRAMACION  DE  DISPOSITIVOS  MOVILES CON  ANDROID\n\n
+
+    </string>
+    <string name="about_body">
+        SEMESTRE:	Ago - Dic / 2018\t\t\tGRUPO: “A” 10 – 11 Hrs\n\n
+
+
+
+
+        PRACTICA No.	U5P1\n
+
+        Proyecto Final: App Perdidos y Encontrados\n\n
+
+
+
+
+        ALUMNOS:\n\n
+
+        15130685	Fernando Alfonso Caldera Olivas\n\n
+        15131438 Jesús Iván Sifuentes Valle\n\n
+
+    </string>
+    <string name="about_foot">
+        PROFESOR:\n
+        Ing. Luis Fernando Gil Vázquez\n\n\n
+
+
+
+        Torreón, Coah. a  Miércoles 12 de  Diciembre  de 2018\n
+
+    </string>
+    <string name="about">Acerca de</string>
+    <string name="login_screen">Acceso</string>
+    <string name="signup_screen">Registro</string>
+    <string name="main_screen">Menú Principal</string>
+    <string name="add_post_screen">Agregar Publicación</string>
+    <string name="inspect_post_screen">Inspección</string>
+    <string name="my_posts_screen">Mis Publicaciones</string>
+</resources>
